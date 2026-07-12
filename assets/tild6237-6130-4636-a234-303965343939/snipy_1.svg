@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="459" height="129" viewBox="0 0 459 129" fill="none">
+  <defs>
+    <linearGradient id="ethHoodGrad1" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#EB60FF"/>
+      <stop offset="1" stop-color="#00E1E1"/>
+    </linearGradient>
+  </defs>
+  <text x="229.5" y="82" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="52" font-weight="900" letter-spacing="2" fill="url(#ethHoodGrad1)">THE ETH HOOD</text>
+</svg>
